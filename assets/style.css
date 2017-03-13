@@ -22,7 +22,7 @@ footer {
 h1 {
 	background-color: #4aaaa5;
 	color: white;
-	width:21%;
+	width:22%;
 	padding:25px;
 	margin-left: 100px;
 	margin-bottom:0px;
@@ -39,6 +39,7 @@ h2, h3 {
 header {
 	border-bottom: 2px solid #ccc;
 	text-align:center;
+	width:100%;
 }
 #background {
 	background-image: url("images/background.png");
@@ -48,7 +49,7 @@ header {
 	width:93%;
 }
 #main {
-	width:650px;
+	width:60%;
 	background-color: white;
 	padding:20px;
 	overflow:auto;
@@ -79,8 +80,9 @@ p {
 	width: 270px;
 	height:150px;
 	position:absolute;
-	right:10%;
-	top:41.5%;
+	right:1%;
+	top:30%;
+	width:25%;
 
 }
 .contactPic {
