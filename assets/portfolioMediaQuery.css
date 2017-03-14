@@ -1,0 +1,56 @@
+@media (max-width: 980px){
+	#main {
+		width:60%;
+	}
+	#contactInfo {
+		width:30%;
+	}
+	#hangman, #rpg, #trivia, #rutgers, #rps {
+		width:100%;
+		background-size:100% 100%;
+		margin:0;
+		padding:0;
+		margin-top:10px;
+		margin-right:10px;
+	}
+	#background{
+		padding-left:50px;
+	}
+}
+@media(max-width: 768px){
+	#contactInfo{
+		position: relative;
+		width:100%;
+	}
+	#main {
+		width:100%;
+		padding:0 2%;
+	}
+	#background {
+		padding:2%;
+	}
+	#main article {
+		width:45%;
+		margin:10px;
+	}
+
+}
+@media (max-width:640px){
+	h1 {
+		width:100%;
+		margin:0 auto;
+	}
+	header nav {
+		position:relative;
+		clear:both;
+		top:10%;
+		right:5%;
+	}
+	#aboutPicture {
+		width:100%;
+		padding:10px;
+	}
+	#main article {
+		width:100%;
+	}
+}
